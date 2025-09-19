@@ -43,5 +43,32 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and t
 
 ---
 
+## 📫 Contact Details  
+*Let’s connect and see how we can make a difference together!*  
+
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:mubshey@gmail.com">mubshey@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(+91) 9656089929/td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>kasaragod, Kerala</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="Boniface_Data_Analyst.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/mohdmubashir">Let’s connect on LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
