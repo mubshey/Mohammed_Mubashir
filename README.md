@@ -54,7 +54,7 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and t
     </tr>
     <tr>
       <td>📞</td>
-      <td>(+91) 965-608-9929</td>
+      <td>(+91) 9656089929</td>
     </tr>
     <tr>
       <td>📍</td>
